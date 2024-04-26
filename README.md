@@ -1,5 +1,9 @@
+
 # User card project implementation
 This branch contains the user card project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/15-16-user-card/before) of Basic Components section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764768-basic-components) course.
+
+Attached screenshot of output for reference
+![Screenshot of project](https://raw.githubusercontent.com/Skills-Learnings/React-Basic-and-Intermediate/01-basic-components-project/src/assets/user-card-project-screenshot.jpg)
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
