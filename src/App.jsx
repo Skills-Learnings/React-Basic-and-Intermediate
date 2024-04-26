@@ -1,5 +1,26 @@
+import "./assets/user.css"
+import userDetails from "./assets/user.json"
+import UserCard from "./UserCard"
+import UserCardClass from "./UserCardClass"
+
 function App() {
-  return <h1>Hello World</h1>
+  return (
+    <div>
+      <UserCard
+        name={userDetails.name}
+        phoneNumber={userDetails.phoneNumber}
+        age={userDetails.age}
+        address={userDetails.address}
+      />
+      <br />
+      <UserCardClass
+        name={userDetails.name}
+        phoneNumber={userDetails.phoneNumber}
+        age={userDetails.age}
+        address={userDetails.address}
+      />
+    </div>
+  )
 }
 
 export default App
