@@ -1,5 +1,9 @@
+import { ClassComponent } from "./ClassComponent"
+import { FunctionComponent } from "./FunctionComponent"
+
 function App() {
-  return <h1>Hello World</h1>
+  return <FunctionComponent />
+  //return <ClassComponent />
 }
 
 export default App
