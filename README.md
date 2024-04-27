@@ -1,9 +1,6 @@
-# React Basic and Intermediate
-This repo contains the exercises and projects implementation from the [react simplified basic and intermediate course](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764768-basic-components)
 
-## Branch Structure
-1. The main branch contains the skeleton code of vite react app.
-2. For each section of course there are separate branches for exercises and projects implementation
+# Array State project implementation
+This branch contains the array state project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/20-array-component) of Basic Stateful Components section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764769-basic-stateful-components) course.
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
