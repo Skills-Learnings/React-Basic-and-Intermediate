@@ -1,9 +1,10 @@
-# React Basic and Intermediate
-This repo contains the exercises and projects implementation from the [react simplified basic and intermediate course](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764768-basic-components)
 
-## Branch Structure
-1. The main branch contains the skeleton code of vite react app.
-2. For each section of course there are separate branches for exercises and projects implementation
+# useEffect exercises implementation
+This branch contains the useEffect exercises [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/27-28-use-effect-exercises/before) of Component Lifecycle of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764770-component-lifecycle) course.
+
+Attached screenshot of output for reference
+
+![Screenshot of project](https://github.com/Skills-Learnings/React-Basic-and-Intermediate/blob/02-stateful-components-counter-with-name-project/src/assets/counter-with-name-project-snapshot.jpg?raw=true)
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.

@@ -1,30 +1,55 @@
 import { useEffect, useState } from "react"
 
 export function Child() {
-  const [name, setName] = useState("")
   const [age, setAge] = useState(0)
+  const [name, setName] = useState("")
 
-  //useEffect example
-  /* useEffect(() => {
-    console.log("Name or age was changed", name, age)
-  }, [name, age]) */
-
-  //useEffect Exercise
   useEffect(() => {
-    console.log("Age has changed", age)
-  }, [age])
+    console.log("Hi")
+
+    /* 1. Whenever a component unmounts this return function runs
+    2. since we have passed empty array as dependencies this useEffect will run only when the components mounts
+    3. when the component unmounts return function will run */
+    return () => {
+      console.log("Bye")
+    }
+  }, [])
+
+  useEffect(() => {
+    console.log("Render")
+  })
+
+  useEffect(() => {
+    console.log(`My name is ${name} and I am ${age} years old`)
+  }, [name, age])
+
+  useEffect(() => {
+    document.title = name
+
+    const timeout = setTimeout(() => {
+      console.log(`My name is ${name}`)
+    }, 1000)
+
+    return () => {
+      clearTimeout(timeout)
+    }
+  }, [name])
 
   return (
     <div>
-      <input value={name} onChange={(e) => setName(e.target.value)} />
+      <input
+        type="text"
+        value={name}
+        onChange={(e) => setName(e.target.value)}
+      />
       <br />
       <br />
-      <button onClick={() => setAge((currentAge) => currentAge - 1)}>-</button>
+      <button onClick={() => setAge((a) => a - 1)}>-</button>
       {age}
-      <button onClick={() => setAge((currentAge) => currentAge + 1)}>+</button>
-      <p>
-        My name is {name} and I am {age} years old
-      </p>
+      <button onClick={() => setAge((a) => a + 1)}>+</button>
+      <br />
+      <br />
+      My name is {name} and I am {age} years old.
     </div>
   )
 }
