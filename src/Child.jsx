@@ -1,3 +1,4 @@
+// This component contains the exercise and example code of useEffect hook
 import { useEffect, useState } from "react"
 
 export function Child() {
