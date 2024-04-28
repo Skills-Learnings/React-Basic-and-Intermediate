@@ -1,5 +1,6 @@
 import { useState } from "react"
 import Counter from "./Counter"
+import { Child } from "./Child"
 
 function App() {
   // Exmple of useState
@@ -29,11 +30,14 @@ function App() {
   /* return <Counter /> */
 
   // Example of input event listeners
-  const [name, setName] = useState("Sahil")
+  /* const [name, setName] = useState("Sahil")
 
   return (
     <input type="text" value={name} onChange={(e) => setName(e.target.value)} />
-  )
+  ) */
+  
+  // Example of useEffect hook
+  return <Child />
 }
 
 export default App
