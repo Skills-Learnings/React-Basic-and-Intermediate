@@ -4,7 +4,7 @@ This branch contains the useEffect exercises [implementation](https://github.com
 
 Attached screenshot of output for reference
 
-![Screenshot of project](https://github.com/Skills-Learnings/React-Basic-and-Intermediate/blob/02-stateful-components-counter-with-name-project/src/assets/counter-with-name-project-snapshot.jpg?raw=true)
+![Screenshot of project](https://github.com/Skills-Learnings/React-Basic-and-Intermediate/blob/02-stateful-components-useEffect-exercises/src/assets/useEffect-exercises-screenshot.jpg?raw=true)
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
