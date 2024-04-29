@@ -1,6 +1,9 @@
 
+
 # Array State project implementation
 This branch contains the array state project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/20-array-component) of Basic Stateful Components section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764769-basic-stateful-components) course.
+Attached screenshot for reference
+![Attached screenshot for reference](https://github.com/Skills-Learnings/React-Basic-and-Intermediate/blob/02-stateful-components-array-state-project/src/assets/array-state-project-screenshot.jpg?raw=true)
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
