@@ -1,5 +1,4 @@
-
-#Counter with name project implementation
+# Counter with name project implementation
 This branch contains the array state project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/21-22-name-counter/before) of Basic Stateful Components section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764769-basic-stateful-components) course.
 
 Attached screenshot of output for reference
