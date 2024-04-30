@@ -1,9 +1,9 @@
-# React Basic and Intermediate
-This repo contains the exercises and projects implementation from the [react simplified basic and intermediate course](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764768-basic-components)
+# Simple Todo List project implementation
+This branch contains the simple todo list project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/41-42-simple-todo-list/before) of Advanced Components section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764771-advanced-components) course.
 
-## Branch Structure
-1. The main branch contains the skeleton code of vite react app.
-2. For each section of course there are separate branches for exercises and projects implementation
+Attached screenshot for reference
+
+![Attached screenshot for reference](https://github.com/Skills-Learnings/React-Basic-and-Intermediate/blob/03-advanced-components-simple-todo-list-project/src/assets/simple-todo-list-project-screenshot.jpg?raw=true)
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
