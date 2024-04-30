@@ -1,5 +1,5 @@
-# Simple Todo List project implementation
-This branch contains the simple todo list project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/437-38-user-list/before) of Advanced Components section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764771-advanced-components) course.
+# User List project implementation
+This branch contains the user list project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/437-38-user-list/before) of Advanced Components section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764771-advanced-components) course.
 
 Attached screenshot for reference
 
