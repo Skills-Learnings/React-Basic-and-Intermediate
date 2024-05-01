@@ -1,5 +1,5 @@
 # useFetch custom hook project implementation
-This branch contains the user list project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/49-50-use-fetch-hook/before) of Basic hooks section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764772-basic-hooks/5836227-49-usefetch-custom-hook-project-introduction) course.
+This branch contains the useFetch custom hook project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/49-50-use-fetch-hook/before) of Basic hooks section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764772-basic-hooks/5836227-49-usefetch-custom-hook-project-introduction) course.
 
 Attached screenshot for reference
 
