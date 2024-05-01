@@ -1,5 +1,10 @@
+import { RefValidation } from "./RefValidation"
+import { StateValidation } from "./StateValidation"
+import "./assets/styles.css"
+
 function App() {
-  return <h1>Hello World</h1>
+  /* return <RefValidation /> */
+  return <StateValidation />
 }
 
 export default App
