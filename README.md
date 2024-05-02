@@ -1,9 +1,5 @@
-# React Basic and Intermediate
-This repo contains the exercises and projects implementation from the [react simplified basic and intermediate course](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764768-basic-components)
-
-## Branch Structure
-1. The main branch contains the skeleton code of vite react app.
-2. For each section of course there are separate branches for exercises and projects implementation
+# Basic Form Validation project implementation
+This branch contains the form validation project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/58-59-basic-form-validation-project/before) of Forms section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764773-forms) course.
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
