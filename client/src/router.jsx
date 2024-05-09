@@ -11,6 +11,8 @@ import { userListRoute } from "./Pages/Users"
 import { todosListRoute } from "./Pages/Todos"
 import { postDetailRoute } from "./Pages/PostDetail"
 import { userDetailRoute } from "./Pages/UserDetail"
+import { newPostRoute } from "./Pages/NewPost"
+import { editPostRoute } from "./Pages/EditPost"
 
 export const router = createBrowserRouter(
   createRoutesFromElements(
@@ -21,6 +23,8 @@ export const router = createBrowserRouter(
         <Route path="/posts">
           <Route index={true} {...postListRoute} />
           <Route path=":postId" {...postDetailRoute} />
+          <Route path="new" {...newPostRoute} />
+          <Route path=":postId/edit" {...editPostRoute} />
         </Route>
         <Route path="/users">
           <Route index={true} {...userListRoute} />

@@ -6,10 +6,16 @@ import { getUser } from "../api/users"
 
 function PostDetail() {
   const { comments, post, user } = useLoaderData()
-  console.log(user)
   return (
     <>
-      <h1 className="page-title">{post.title}</h1>
+      <h1 className="page-title">
+        {post.title}
+        <div className="title-btns">
+          <Link to={`/posts/${post.id}/edit`} className="btn btn-outline">
+            Edit
+          </Link>
+        </div>
+      </h1>
       {
         <span className="page-subtitle">
           By: <Link to={`/users/${user.id}`}>{user.name}</Link>
