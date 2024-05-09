@@ -1,5 +1,6 @@
-# Basic blog project implementation
-This branch contains the basic blog project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/75-76-basic-blog-project/before) of Routing section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764775-routing/5836339-75-basic-routing-project-introduction) course.
+
+# Adanced blog project implementation
+This branch contains the advanced blog project [implementation](https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects/tree/main/78-79-advanced-blog-project/before) of Routing section of [React Basic and Intermediate](https://courses.webdevsimplified.com/view/courses/react-simplified-beginner/1764775-routing/5836339-75-basic-routing-project-introduction) course.
 
 ## Local Setup Instructions
 1. To run this project implementation on your local download the files.
